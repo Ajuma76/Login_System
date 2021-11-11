@@ -1,0 +1,20 @@
+body{
+    background: khaki;
+    background-size: cover;
+    background-position: center;
+    background-image: url("12.png");
+
+}
+
+.login-box{
+    max-width: 700px;
+    float: none;
+    margin: 150px auto;
+}
+
+.login-left{
+    padding: 30px;
+}
+.login-right{
+    padding: 30px;
+}
